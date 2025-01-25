@@ -1,0 +1,119 @@
+.div01{
+    background-color: blue;
+    height: 50px;
+}
+.div01 ul{
+    list-style: none;
+
+}
+.div01 li {
+    float: left;
+}
+.div01 li a{
+    text-decoration: none;
+    color: azure;
+}
+.div01 h1{
+    font-size: 30px;
+    padding-top: 5px;
+}
+.div01 li span{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.item01 li{
+    font-size: large;
+    font-style: oblique;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.item01 a:hover{
+    color: black;
+    text-decoration: underline rgb(255, 255, 255);
+}
+.div02 input{
+    height: 40px;
+    width: 500px;
+    text-align: center;
+}
+.item02{
+    padding-left: 400px;
+
+}
+body{
+    background-image: url(../IMG/retro-gaming-3840-x-2160-wallpaper-38ifv6m2bbgo4yaa.jpg);
+    background-size: cover;
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+    height: 284vh; /* Adjust height as needed */
+    background-color: black;
+}
+h4{
+    font-size: 20px;
+    color: azure;
+    text-align: center;
+}
+.item03{
+    font-size: 20px;
+    color: azure;
+    text-align: center;
+    text-decoration: none;
+}
+.div04 img{
+    width: 330px;
+}
+.div03 li{
+    list-style: none;
+    float: left;
+    margin-left: 30px;
+
+}
+h3{
+    font-size: 20px;
+    color: azure;
+    text-align: center;
+    padding-left: 20px;
+}
+h2{
+    text-align: center;
+    padding-left: 20px;
+    color: azure;
+    font-style: italic;
+}
+.item04{
+    background-color: blue;
+}
+.menu01{
+    background-image: url(../IMG/red_and_blue_abstract_gaming_background_by_snehilpandey_dfo84f1-fullview.jpg);
+
+}
+.div05{
+    padding-left: 70px;
+}
+.div05 h1{
+    color: blue;
+    text-decoration: underline rgb(255, 255, 255);
+}
+.div05 h4{
+    color: blue;
+    text-decoration: underline rgb(255, 255, 255);
+}
+.div05 p{
+    padding-left: 30px;
+    color: aliceblue;
+}
+.item05{
+    padding-left: 60px;
+    list-style: none;
+}
+.item05 p{
+    padding-left: 30px;
+}
+.item05 h4{
+    padding-right: 180px;
+}
+.div05 li{
+    list-style: none;
+}
